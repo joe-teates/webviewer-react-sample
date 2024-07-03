@@ -37,9 +37,9 @@ In order to set the license key, you will need to set the string in the WebViewe
 
 Follow the steps below to set the license key in this sample:
 
-Locate the App.js file at webviewer-react-sample/src/App.js
-Replace "your_license_key" with your license key
-Save the file
+- Locate the App.js file at webviewer-react-sample/src/App.js
+- Replace "your_license_key" with your license key
+- Save the file
 
 ## Install
 
